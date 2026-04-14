@@ -1,16 +1,16 @@
 algoritmo "nota"
-// Autor : Eloísa e Gustavo
+// Autor : EloÃ­sa e Gustavo
 // Data : 14/04/2026
-// Seção de Declarações 
-// F9 (executar o meu código)
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
+// F9 (executar o meu cÃ³digo)
 var
   nota ,frequencia: real
   aprovado, reprovado: literal
 inicio
-// Seção de Comandos 
+// SeÃ§Ã£o de Comandos 
  escreva  ("Insira a sua nota: ")
  leia (nota)
- escreva ("Insira a sua frequência: ")
+ escreva ("Insira a sua frequÃªncia: ")
  leia (frequencia)
  
 
